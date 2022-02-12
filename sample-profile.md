@@ -3,33 +3,29 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm No Body 🧑🏻
 
 <p align="justify">
-  I am a bachelor graduate with a Data Science specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
 
-![Visitor Count](https://profile-counter.glitch.me/{myarist}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{project303}/count.svg)
 
-<img align='right' src = "https://github.com/myarist/github-stats-transparent/blob/output/generated/languages.svg">
+<img align='right' src = "https://github.com/project303/github-stats-transparent/blob/output/generated/languages.svg">
 
  ## ⭐ Popular Repositories
 
-| 🎓 Courses | [DQLab](https://github.com/MyArist/DQLab) · [Dicoding](https://github.com/myarist/Dicoding) · [Progate](https://github.com/myarist/Progate) |
+| 🎓 Courses | [DATAlearns247](https://github.com/project303)|
 |:--------|:--------------------|
-| ⚙ Projects | [Rock Paper Scissors](https://github.com/myarist/Rock-Paper-Scissors) · [Interactive ML Dashboard](https://github.com/myarist/Interactive-Machine-Learning-Dashboard) | 
-| 📝  Articles | [Data Science Guide](https://github.com/myarist/Data-Science-Guide) · [Data Science Learning Path](https://github.com/myarist/Data-Science-Learning-Path) | 
+| ⚙ Projects | [MyProject](https://github.com/project303) · [Other Project](https://github.com/project303) | 
+| 📝  Articles | [My Article](https://github.com/project303) · [Other Article](https://github.com/project303) | 
 
 ## 📃 Latest Articles
 
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
 <!-- BLOG-POST-LIST:START -->
-- [Metode Statistika II : Jenis-Jenis Estimasi](https://www.belajarstatistik.com/blog/2021/11/08/jenis-jenis-estimasi/)
-- [Metode Statistika II : Distribusi Sampling Beda Proporsi](https://www.belajarstatistik.com/blog/2021/11/07/distribusi-sampling-beda-proporsi/)
-- [Metode Statistika II : Distribusi Sampling Beda Rata-Rata](https://www.belajarstatistik.com/blog/2021/11/06/distribusi-sampling-beda-rata-rata/)
-- [Algoritma dan Pemrogaman : Contoh Program Pengurutan Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/05/contoh-program-pengurutan/)
-- [Algoritma dan Pemrograman : Pengurutan Data Metode Insertion Dalam Bahasa Pascal](https://www.belajarstatistik.com/blog/2021/11/04/pengurutan-data-metode-insertion/)
-<!-- BLOG-POST-LIST:END -->
+- [Artikel 1](https://www.datalearns247.com)
+- <!-- BLOG-POST-LIST:END -->
 
 ## 🔍 You Can Find Me at
 
