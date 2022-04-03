@@ -9,11 +9,25 @@ Bold atau huruf tebal menggunakan **asterisks** or __underscores__
 Kombinasi bold dan italic menggunakan **asterisks and _underscores_**
 Strikethrough menggunakan dua tildes. ~~Scratch this.~~
 ```
+#### Hasilnya:
 
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Italics atau huruf miring menggunakan *asterisks* or _underscores_
 
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
+Bold atau huruf tebal menggunakan **asterisks** or __underscores__
 
-Combined emphasis with **asterisks and _underscores_**.
+Kombinasi bold dan italic menggunakan **asterisks and _underscores_**
 
-Strikethrough uses two tildes. ~~Scratch this.~~
+Strikethrough menggunakan dua tildes. ~~Scratch this.~~
+
+
+## Link
+
+```
+[Project303](https://www.github.com/project303)
+[Project303 dengan judul link](https://www.github.com/project303 "Project303")
+```
+#### Hasilnya:
+
+[Project303](https://www.github.com/project303)
+
+[Project303 dengan judul link](https://www.github.com/project303 "Project303")
